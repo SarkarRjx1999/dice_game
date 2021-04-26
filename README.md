@@ -1,1 +1,1 @@
-# dice_game play this game win bets with your friends😁.
+# dice_game A simple game created using javascrpipt,HTML5 and CSS3 :)
